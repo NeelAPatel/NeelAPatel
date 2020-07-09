@@ -1,4 +1,4 @@
-### Hi there 👋
+### nerd boy likes coding because its fun :) 
 
 <!--
 **NeelAPatel/NeelAPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
