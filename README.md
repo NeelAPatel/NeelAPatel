@@ -1,5 +1,5 @@
-### nerd boy likes coding because its fun :) 
-
+### Lover of all things coding, developing scripts and solutions to solve problems. 
+### Currently working on upskilling in Data Science and Software development skillset.
 <!--
 **NeelAPatel/NeelAPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
