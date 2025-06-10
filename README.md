@@ -8,6 +8,7 @@ I'm a software & data engineer who builds intelligent automation pipelines, real
 - [Twitch Moderation GPT](https://github.com/neelapatel/twitchmodgpt)
 - [TimelyTrack](https://github.com/neelapatel/TimelyTrack)
 - [PortfolioSite](https://github.com/neelapatel/PortfolioSite)
+
 📊 Recently learning: etc.
 🛠️ Skillset: Python, TypeScript, Next.js, Tailwind, Postgres, AWS  
 🧠 Learning: AWS, AI, prompt engineering, LLM Ops, AI feedback loops  
